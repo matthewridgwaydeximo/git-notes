@@ -7,6 +7,16 @@ The ```man``` command is used to display the manual pages for Unix commands and 
 ```
 man man
 ```
+Shortcuts for the manual:
+
+- `q`: Quits the manual
+- `j`: One line down
+- `k`: One line up
+- `d`: Half page down
+- `u`: Half page up
+- `/<term>`: Search for "term"
+- `n`: Next search term
+- `N`: Previous search term
 
 ## Concept of Git as a Distributed Version Control
 
